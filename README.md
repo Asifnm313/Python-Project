@@ -1,4 +1,4 @@
-# ABC Company Employee Data Analysis Project
+# ABC COMPANY EMPLOYEE DATA ANALYSIS PROJECT
 
 ## Overview
 This project involves analyzing a dataset from ABC company consisting of **458 rows** and **9 columns**. The goal is to preprocess the dataset, conduct insightful analysis, and present the findings graphically to understand employee distribution, salary trends, and correlations.
@@ -81,10 +81,3 @@ The dataset includes the following columns:
   - `Matplotlib` and `Seaborn` for data visualization.
   - `Numpy` for numerical operations.
 - **Development Environment**: Jupyter Notebook or IDE of your choice.
-
----
-
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/abc-employee-analysis.git
